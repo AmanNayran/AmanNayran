@@ -7,7 +7,7 @@
 - Área de preferência: Front-end e criação de automações
 
 <div align="center">
-  <a href="https://github.com/AmanNayran">
+  <a href="https://github.com/AmanNayran"><br>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AmanNayran&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanNayran&layout=compact&langs_count=7&theme=dark"/>
 </div>
